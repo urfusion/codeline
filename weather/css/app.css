@@ -1,0 +1,17 @@
+/* 
+    Created on : 3 Aug, 2018, 6:55:54 PM
+    Author     : AZinkey
+*/
+
+#cityWeathers h3 {
+    color: #00697d;
+}
+
+.weathers {
+    width: 100%;
+}
+.weathers li {
+    float: left;
+    width: 16%;
+    list-style: none;
+}
